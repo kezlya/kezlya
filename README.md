@@ -1,6 +1,4 @@
-### Hi there, I'm Klimonov Kirill 👋
-
-## I'm a professional Alpinist and Developer!
+## Hi there 👋, I'm Klimonov Kirill - professional Alpinist and Developer!
 - 🔭 I’m currently working in [dev-team.club][devteamwebsite]!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
