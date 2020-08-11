@@ -29,7 +29,7 @@
 <br />
 
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Klimonov&show_icons=true&hide_border=true&hide=stars" />
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Klimonov&show_icons=true&hide_border=true&hide=stars&count_private=false&include_all_commits=true" />
 
 [devteamwebsite]: https://dev-team.club/
 [website]: http://klimonov.github.io/
