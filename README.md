@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Klimonov Kirill - professional Alpinist and Developer!
+## Hi there 👋, I'm Vitaly Kezlya - professional software architect.
 - 🔭 I’m currently working in [dev-team.club][devteamwebsite]!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
@@ -29,9 +29,8 @@
 <br />
 
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Klimonov&show_icons=true&hide_border=true&hide=stars&count_private=false&include_all_commits=true" />
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=kezlya&show_icons=true&hide_border=true&hide=stars&count_private=true&include_all_commits=true" />
 
-[devteamwebsite]: https://dev-team.club/
-[website]: http://klimonov.github.io/
-[instagram]: https://www.instagram.com/kklimonov/
-[linkedin]: https://www.linkedin.com/in/klimonov/
+[website]: https://dev-team.club/
+[instagram]: https://www.instagram.com/devteamclub/
+[linkedin]: https://www.linkedin.com/in/vitaly-kezlya-450192b/
